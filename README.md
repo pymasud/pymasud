@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pymasud
+- 👋 Hi, I’m Masud
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python and JS
 - 💞️ I’m looking to collaborate on ...
